@@ -4,5 +4,8 @@
 
 Demo: 
 <br>
+<img src="https://github.com/Khushi260/CodeVerse/blob/main/codeverse2.png">
+<br>
+<br>
 <img src="https://github.com/Khushi260/CodeVerse/blob/main/codeverse.png">
 
